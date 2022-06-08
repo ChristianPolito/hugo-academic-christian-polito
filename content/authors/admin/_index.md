@@ -1,7 +1,7 @@
 ---
 title: Christian Polito
 role: Data Analyst
-avatar_filename: 300foto.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
