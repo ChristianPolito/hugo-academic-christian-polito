@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Current position : Data Analyst @Somfy Group
+    url: https://www.linkedin.com/in/christian-polito/
 education:
   courses:
     - course: PhD in Artificial Intelligence
