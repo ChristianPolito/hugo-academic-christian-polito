@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Current position : Data Analyst at Somfy Group
+  - name: Current position - Data Analyst at Somfy Group
     url: https://www.linkedin.com/in/christian-polito/
 education:
   courses:
